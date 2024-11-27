@@ -212,7 +212,7 @@ p.note { display: none; }
 <br><br>
 
 <h2><span class="yellow">無線機がデジタル化した時点で、多彩な通信方法が開発されています。<br>今回使ったのは下記リンク先に説明されている４手法のうちの一つ「ポータブルデジタルノード」<br>
-<a href="https://www.yaesu.com/jp/amateur_index/download/1908_Portable_Node_web.pdf" target="_blank">YAESUのHPにあるデジタル通信の説明書</a></span></h2>
+<a href="https://www.yaesu.com/jp/amateur_index/download/1908_Portable_Node_web.pdf" target="_blank">YAESUのHPにあるデジタル通信の説明書リンク</a></span></h2>
 
 
 
