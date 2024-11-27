@@ -134,7 +134,11 @@ p.note { display: none; }
 <h2><span class="yellow">ちょっと早起きして、ヤシの木の向こうの朝日を拝みます</span></h2>
 <a href="20241126_001.JPG" target="_blank"><img src="20241126_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_002.JPG" target="_blank"><img src="20241126_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">植物の勢いはすごいので、雑草のお手入れは人力では追いつかず！</span></h2>
 <a href="20241126_003.JPG" target="_blank"><img src="20241126_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お花たちは咲き誇っています</span></h2>
 <a href="20241126_004.JPG" target="_blank"><img src="20241126_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_005.JPG" target="_blank"><img src="20241126_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_006.JPG" target="_blank"><img src="20241126_006.JPG" alt="サンプル画像" width="900" /></a>
@@ -142,30 +146,67 @@ p.note { display: none; }
 <a href="20241126_008.JPG" target="_blank"><img src="20241126_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_009.JPG" target="_blank"><img src="20241126_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_010.JPG" target="_blank"><img src="20241126_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">チェンライの北の町メーチャンで親戚を訪問</span></h2>
+<a href="20241126_001.png" target="_blank"><img src="20241126_001.png" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お昼を頂きました</span></h2>
 <a href="20241126_011.JPG" target="_blank"><img src="20241126_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">缶ジュースにもタイ語の説明</span></h2>
 <a href="20241126_012.JPG" target="_blank"><img src="20241126_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_013.JPG" target="_blank"><img src="20241126_013.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">訪問先は、先日の故人の長女夫婦のところ</span></h2>
 <a href="20241126_014.JPG" target="_blank"><img src="20241126_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">同じ敷地で、ご長男が弁護士事務所を開設しています</span></h2>
 <a href="20241126_015.JPG" target="_blank"><img src="20241126_015.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">メーチャン役場の前にあるロータリー内の仏壇は、お寺サイズでした！</span></h2>
 <a href="20241126_016.JPG" target="_blank"><img src="20241126_016.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">Lotusで買い物すると目がいってしまうイスラム教のご家族<br>気にしちゃうのは日本人の私だけかも？</span></h2>
 <a href="20241126_017.JPG" target="_blank"><img src="20241126_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_018.JPG" target="_blank"><img src="20241126_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">このサイズのお寺は頻繁に目にします<br>この2枚は別のお寺</span></h2>
 <a href="20241126_019.JPG" target="_blank"><img src="20241126_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_020.JPG" target="_blank"><img src="20241126_020.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">7/11は結構あるので、ここで手堅くお菓子など調達</span></h2>
 <a href="20241126_021.JPG" target="_blank"><img src="20241126_021.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">前の国道を行き交うバイク、Hondaの２輪が大活躍です</span></h2>
 <a href="20241126_022.JPG" target="_blank"><img src="20241126_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_023.JPG" target="_blank"><img src="20241126_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_024.JPG" target="_blank"><img src="20241126_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_025.JPG" target="_blank"><img src="20241126_025.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">市場のお店に、手作り的な神様が祀られていました</span></h2>
 <a href="20241126_026.JPG" target="_blank"><img src="20241126_026.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">基本は朝市なので、午後には商品が品切れ気味</span></h2>
 <a href="20241126_027.JPG" target="_blank"><img src="20241126_027.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_028.JPG" target="_blank"><img src="20241126_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_029.JPG" target="_blank"><img src="20241126_029.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">神様が祀られていたお店から声が掛かって、見てみると噴水が作動</span></h2>
 <a href="20241126_030.JPG" target="_blank"><img src="20241126_030.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">日本人が写真撮ったのを見て、店主のおじさんが水を出してくれました</span></h2>
 <a href="20241126_031.JPG" target="_blank"><img src="20241126_031.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">1日の最後は、懸案だったアマチュア無線のデジタル通信</span></h2>
 <a href="20241126_032.JPG" target="_blank"><img src="20241126_032.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">無線機に小さなPCを繋いで、インターネット経由で通信します</span></h2>
 <a href="20241126_033.JPG" target="_blank"><img src="20241126_033.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">PCがネットに入れず苦労してましたが、１週間目にしてやっとネットイン</span></h2>
 <a href="20241126_034.JPG" target="_blank"><img src="20241126_034.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">早速横浜の局と交信できました。通信状態は「メリット５」（アナログ通信の59に相当）</span></h2>
 <a href="20241126_035.JPG" target="_blank"><img src="20241126_035.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
