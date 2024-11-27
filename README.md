@@ -177,7 +177,7 @@ p.note { display: none; }
 <h2><span class="yellow">7/11は結構あるので、ここで手堅くお菓子など調達</span></h2>
 <a href="20241126_021.JPG" target="_blank"><img src="20241126_021.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">前の国道を行き交うバイク、Hondaの２輪が大活躍です</span></h2>
+<h2><span class="yellow">前の国道を行き交うバイク、日本製スクーターが大活躍です</span></h2>
 <a href="20241126_022.JPG" target="_blank"><img src="20241126_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_023.JPG" target="_blank"><img src="20241126_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241126_024.JPG" target="_blank"><img src="20241126_024.JPG" alt="サンプル画像" width="900" /></a>
