@@ -221,7 +221,7 @@ p.note { display: none; }
 <br><br><br>
 
 
-
+<a href="IMG_1543.HEIC" target="_blank"><img src="IMG_1543.HEIC" alt="サンプル画像" width="900" /></a>
 
 
 
